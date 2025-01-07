@@ -80,7 +80,7 @@ Click the image above to watch the demonstration video: **"ArUco Marker Robot Co
 [![Watch the updated video](https://img.youtube.com/vi/zUkfx-ANzOE/0.jpg)](https://www.youtube.com/watch?v=zUkfx-ANzOE)
 
 Click the image above to watch the updated demonstration video: **"ArUco Marker Robot Control with ROS2 - Updated Features"**.
-Linear and angle control has been added.
+- Linear and angle control has been added.
 
 ## Authors
 - [Emin Shirinov](https://www.github.com/Codeexia0)
